@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou John Lucas Carvalho Vaz da Silva!
 
 🎓 Estudante de Gestão de Tecnologia da Informação na Estácio (conclusão em 12/2025)  
-💻 Desenvolvedor Front-End Júnior em formação  
+💻 Desenvolvedor Front-End  
 🚀 Apaixonado por transformar ideias em experiências web responsivas e funcionais  
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas
 - **Linguagens:** HTML5, CSS3, JavaScript  
-- **Frameworks/Libraries:** React (básico)  
-- **Ferramentas:** Git, GitHub, Netlify, VS Code, Figma (básico)  
+- **Frameworks/Libraries:** React, Tailwind  
+- **Ferramentas:** Git, GitHub, VS Code  
 - **Outros:** Responsividade, UI/UX, versionamento de código
 
 ---
@@ -62,9 +62,8 @@ Atualmente focado em aprimorar minhas habilidades com React e boas práticas de 
 
 ## 🚀 Em constante evolução!
 
-🎓 Estudante de Gestão de TI  
-📈 Estudando React, boas práticas de UI/UX e integração com APIs  
-💼 Buscando oportunidades como Dev Front-End Júnior  
+🎓 Estudante de Gestão de TI   
+💼 Buscando oportunidades como Dev Front-End  
 
 
 ---
